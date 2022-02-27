@@ -23,6 +23,6 @@
 <a href="mailto:aromalasaromal26@gmail.com">
   <img align="left" alt="Aromal | Gmail" width="46" height="35" src="https://drive.google.com/uc?export=download&id=1crYSZcSsfVskYOfKjiE-jwdGdzltQS8h"/>
 </a> 
-<p align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img alt="Aromal | Gif" width="250" height="250" src="https://drive.google.com/uc?export=download&id=1LjiB6PtX6BQ-aMC1-QGdKmj_nN3ARJOX"></p>
+<p align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img alt="Aromal | Gif" width="250" height="250" src="https://drive.google.com/uc?export=download&id=1LjiB6PtX6BQ-aMC1-QGdKmj_nN3ARJOX"></p>
 <br>
 
