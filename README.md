@@ -1,7 +1,7 @@
 # Hi there, I'm *Aromal A S* <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### A passionate Developer, an inquistive student and tech enthusiast from india!!<br>
-### graduated with a degree in Bachelor of Computer Science at [University Institute of Technology,Pirappancode]("#").<br>
+### graduated with a degree in Bachelor of Computer Science at <a href="https://www.google.com/maps/place/Pirappancode+UIT/@8.6577381,76.9124239,15z/data=!4m5!3m4!1s0x0:0x1464e467d657f376!8m2!3d8.6577381!4d76.9124239"> University Institute of Technology,Pirappancode</a>.<br>
 
 - 🌱 Currently pursuing Master of Computer Application
 - ⚡ Fun fact: Movieholic🍿🎬, love Music🎵
